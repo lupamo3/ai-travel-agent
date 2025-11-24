@@ -1,6 +1,7 @@
 langchain
-langchain_core
+langchain-community
 langchain_groq
-langchain_community
-python-dotenv
+chromadb
 streamlit
+pandas
+python-dotenv
